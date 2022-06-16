@@ -1,0 +1,618 @@
+{
+	"eagerLoadRefineSearch": {
+		"status": 200,
+		"hits": 5,
+		"totalHits": 31,
+		"data": {
+			"jobs": [
+				{
+					"cityState": "CALGARY, Alberta",
+					"country": "Canada",
+					"subCategory": "Technology",
+					"city": "CALGARY",
+					"ml_skills": [
+						"agile setting",
+						"photoshop",
+						"strong communication",
+						"nlp",
+						"kubernetes",
+						"programming skills",
+						"integrations",
+						"accountability",
+						"nodejs",
+						"interface design",
+						"rest apis",
+						"typescript",
+						"javascript",
+						"ci",
+						"programming",
+						"nlp techniques",
+						"ownership",
+						"impact",
+						"design patterns",
+						"devops",
+						"continuous learning",
+						"unit testing",
+						"back-end",
+						"platforms",
+						"communication",
+						"docker",
+						"agile"
+					],
+					"latitude": "51.0456027",
+					"type": "Full time",
+					"multi_location": [
+						"CALGARY, Alberta, Canada"
+					],
+					"locale": "en_CA",
+					"title": "Senior Full Stack Developer",
+					"multi_location_array": [
+						{
+							"latlong": {
+								"lon": -114.0697814,
+								"lat": 51.0456027
+							},
+							"location": "CALGARY, Alberta, Canada"
+						}
+					],
+					"jobSeqNo": "RBCAA0088R0000008981EXTERNALENCA",
+					"postedDate": "2022-06-15T00:00:00.000Z",
+					"descriptionTeaser": "You will learn how to build sophisticated NLP driven experiences built on RBC patent pending technology. Develop front-end integrations with platforms such as slack, teams, and outlook to deliver a native...",
+					"dateCreated": "2022-05-04T15:29:06.820+0000",
+					"state": "Alberta",
+					"cityStateCountry": "CALGARY, Alberta, Canada",
+					"visibilityType": "External",
+					"siteType": "external",
+					"longitude": "-114.0697814",
+					"address": "335 8 AVE SW, CALGARY, AB T2P 1C9, Canada",
+					"isMultiCategory": true,
+					"multi_category": [
+						"Technology | Analytics | Research"
+					],
+					"reqId": "R-0000008981",
+					"jobId": "R-0000008981",
+					"badge": "",
+					"jobVisibility": [
+						"external"
+					],
+					"isMultiLocation": true,
+					"applyUrl": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Senior-Full-Stack-Developer_R-0000008981/apply",
+					"multi_category_array": [
+						{
+							"category": "Technology | Analytics | Research"
+						}
+					],
+					"location": "CALGARY, Alberta, Canada",
+					"ml_job_parser": {
+						"descriptionTeaser": "You will learn how to build sophisticated NLP driven experiences built on RBC patent pending technology. Develop front-end integrations with platforms such as slack, teams, and outlook to deliver a native...",
+						"ml_smart_job_description": {
+							"smart_highlights": {
+								"description_html": "<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Come Work with Us!</b><br /><br /><span>At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.</span><br /><br /><span>Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Title</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Senior Full Stack Developer<p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b><u>Job Description</u></b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><ul></ul><p><b>What is the opportunity? </b></p><p></p><p><span>We are a team that support variety of NLP driven applications within the bank e.g., email response generation, virtual assistant, report summarization, and etc. The team is cross-functional and consists of developers, conversational designers, and data scientists. We are very close knit and high performing, and together deliver working product incrementally and iteratively. We are looking for a Full Stack Developer who will develop the front, back, and everything in between. You will learn how to build sophisticated NLP driven experiences built on RBC patent pending technology.</span></p><p></p><p><b>What will you do?</b></p><ul><li><p>Develop an amazing interface for our virtual assistants and NLP toolkits</p></li><li><p>Develop back-end integrations with internal and external platforms that enable the AI to deliver automated services and content</p></li><li><p>Develop front-end integrations with platforms such as slack, teams, and outlook to deliver a native experience</p></li><li><p>Work in an agile setting and perform code reviews, unit testing, and system testing</p></li></ul><p></p><p><b>What do you need to succeed?</b></p><p><b>Must-have</b></p><ul><li><p><mark class=\"smart-job-highlights\">Experience with NodeJS, Typescript and/or JavaScript and React</mark></p></li><li><p><mark class=\"smart-job-highlights\">Strong programming skills, understanding of DevOps practices, design patterns and a foundational understanding of security, networks, and architecture</mark></p></li><li><p>Experience developing and consuming Webs Services/Rest APIs in a secure fashion</p></li><li><p>Ownership and accountability for work assigned</p></li><li><p>Collaborative and team-first mindset</p></li><li><p>Continuous learning mindset and ability to pick up new things quickly</p></li><li><p>Strong communication and presentation skills.</p></li></ul><p></p><p><b>Nice-to-have</b></p><ul><li><p><mark class=\"smart-job-highlights\">User-interface design experience and expertise with Photoshop or Adobe Illustrator</mark></p></li><li><p><mark class=\"smart-job-highlights\">Experience utilizing NLP techniques for mining unstructured text data</mark></p></li><li><p>Experience using Docker and related technology (e.g. docker compose, kubernetes, etc.)</p></li><li><p><span>Experience contributing to open source projects</span></p></li><li><p><span>Experience with CI/CD tooling and methods</span></p></li><li><p><span>GitHub account with a Portfolio for demonstration and review</span></p></li></ul><p></p><p><b>What’s in it for you? </b></p><p></p><p>We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.</p><ul><li><p>A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable</p></li><li><p>Leaders who support your development through coaching and managing opportunities</p></li><li><p>Ability to make a difference and lasting impact</p></li><li><p>Work in a dynamic, collaborative, progressive, and high-performing team</p></li><li><p>Flexible work/life balance options</p></li><li><p>Opportunities to do challenging work</p></li><li><p>Opportunities to take on progressively greater accountabilities </p></li></ul><p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Summary</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Address:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CALGARY, Alberta, Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>City:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CAN-AB-CALGARY<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Country:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Work hours/week:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>37.5<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Employment Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Full time<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Platform:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Technology and Operations<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Job Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Regular<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Pay Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Salaried<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Posted Date:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-05-04-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Application Deadline:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-07-05-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>I</b><b><b>nclusion</b> and Equal Opportunity Employment</b></p><p>At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.<br />​​​​​​​<br />We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Join our Talent Community</b><br /><br /><span>Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.</span><br /><br /><span>Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>"
+							},
+							"teaser2": "Strong programming skills, understanding of DevOps practices, design patterns and a foundational understanding of security, networks, and architecture. Experience utilizing NLP techniques for mining unstructured text data. Experience with NodeJS, Typescript..."
+						},
+						"descriptionTeaser_keyword": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose. Whether...",
+						"descriptionTeaser_ats": "",
+						"descriptionTeaser_first200": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.Whether..."
+					},
+					"category": "Technology | Analytics | Research",
+					"externalApply": false
+				},
+				{
+					"cityState": "CALGARY, Alberta",
+					"country": "Canada",
+					"subCategory": "Technology",
+					"city": "CALGARY",
+					"ml_skills": [
+						"neural networks architectures",
+						"open source",
+						"natural language processing",
+						"computer science",
+						"nlp",
+						"model development",
+						"openshift",
+						"ai",
+						"design patterns",
+						"data science",
+						"machine learning",
+						"programming skills",
+						"devops",
+						"neural networks",
+						"rest apis",
+						"javascript",
+						"docker",
+						"research",
+						"programming",
+						"ner",
+						"production deployment",
+						"cross-functional",
+						"agile teams",
+						"data discovery",
+						"innovation",
+						"production systems",
+						"agile"
+					],
+					"latitude": "51.0456027",
+					"type": "Full time",
+					"multi_location": [
+						"CALGARY, Alberta, Canada"
+					],
+					"locale": "en_CA",
+					"title": "Data Scientist - NLP(Calgary-AB)",
+					"multi_location_array": [
+						{
+							"latlong": {
+								"lon": -114.0697814,
+								"lat": 51.0456027
+							},
+							"location": "CALGARY, Alberta, Canada"
+						}
+					],
+					"jobSeqNo": "RBCAA0088R0000008985EXTERNALENCA",
+					"postedDate": "2022-06-15T00:00:00.000Z",
+					"descriptionTeaser": "You will be part of the innovation and technology team at RBC, working on building technology components that RBC developers and businesses leverage to deliver business value. Work in a cross-functional,...",
+					"dateCreated": "2022-04-29T10:26:41.849+0000",
+					"state": "Alberta",
+					"cityStateCountry": "CALGARY, Alberta, Canada",
+					"visibilityType": "External",
+					"siteType": "external",
+					"longitude": "-114.0697814",
+					"address": "335 8 AVE SW, CALGARY, AB T2P 1C9, Canada",
+					"isMultiCategory": true,
+					"multi_category": [
+						"Technology | Analytics | Research"
+					],
+					"reqId": "R-0000008985",
+					"jobId": "R-0000008985",
+					"badge": "",
+					"jobVisibility": [
+						"external"
+					],
+					"isMultiLocation": true,
+					"applyUrl": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Full-Stack-Developer-Data-Scientist-Calgary-AB-_R-0000008985/apply",
+					"multi_category_array": [
+						{
+							"category": "Technology | Analytics | Research"
+						}
+					],
+					"location": "CALGARY, Alberta, Canada",
+					"ml_job_parser": {
+						"descriptionTeaser": "You will be part of the innovation and technology team at RBC, working on building technology components that RBC developers and businesses leverage to deliver business value. Work in a cross-functional,...",
+						"ml_smart_job_description": {
+							"smart_highlights": {
+								"description_html": "<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Come Work with Us!</b><br /><br /><span>At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.</span><br /><br /><span>Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Title</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Data Scientist - NLP(Calgary-AB)<p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b><u>Job Description</u></b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><p><b>What is the opportunity? </b></p><p></p><p>As a data scientist in the NLP space you are part of a team responsible for developing RBC’s NLP platform supporting a variety of projects. You will be part of the innovation and technology team at RBC, working on building technology components that RBC developers and businesses leverage to deliver business value. <mark class=\"smart-job-highlights\">You will be working on projects using latest advancements in Natural Language Processing (NLP) to enable adoption and reuse across the enterprise</mark>. The position will involve research in a practical setting while building production systems and models.</p><p></p><p>We want vocal futurists that can advocate their vision, who will be excited about creative problem-solving as part of a cross-functional team; will obsess over writing smart, simple clean code; will tirelessly strive to deliver the best solution supporting the user experience and will have the drive and desire to keep learning the latest.</p><p></p><p><b>What will you do?</b></p><ul><li><p>Work with modern open source and vendor packages to support use cases in conversational AI & document processing.</p></li><li><p>Own the end-to-end cycle from understating the business problem, data discovery and extraction, model development and evaluation, to production deployment.</p></li><li><p>Stay up to date with latest research and apply it in practical settings to define strategy and deliver business value.</p></li><li><p>Perform code reviews and ensure a high level of code quality.</p></li><li><p>Provide technical mentorship within the organization to streamline adoption of NLP components.</p></li><li><p>Keep developer experience in mind when building tools and services for others to use.</p></li><li><p>Work in a cross-functional, collaborative team aimed at delivering high-value, high quality, and scalable NLP solutions.</p></li></ul><p></p><p><b>What do you need to succeed?</b></p><p><b>Must-have </b></p><ul><li><p><mark class=\"smart-job-highlights\">2+ years of work experience in a data science and machine learning</mark></p></li><li><p>Expert understanding of NLP tasks such as classification, NER, text summarization, and topic modeling</p></li><li><p>Solid experience in deploying production level AI models</p></li><li><p>Experience working in Agile teams</p></li><li><p><mark class=\"smart-job-highlights\">Strong programming skills, understanding of DevOps practices, design patterns and a foundational understanding of security, networks, and architecture</mark></p></li><li><p>Experience developing and consuming Webs Services/Rest APIs in a secure fashion</p></li></ul><p></p><p><b>Nice to Have</b></p><ul><li><p><mark class=\"smart-job-highlights\">Experience with deep neural networks architectures in particular transformer models</mark></p></li><li><p>Master’s or PhD degree in Mathematics, Statistics or Computer Science with a focus on AI/ML areas</p></li><li><p>Familiar with container-type environments: Docker, Openshift</p></li><li><p>Fluency in JavaScript</p></li></ul><p></p><p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Summary</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Address:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CALGARY, Alberta, Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>City:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CAN-AB-CALGARY<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Country:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Work hours/week:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>37.5<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Employment Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Full time<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Platform:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Technology and Operations<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Job Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Regular<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Pay Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Salaried<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Posted Date:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-04-29-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Application Deadline:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-07-05-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>I</b><b><b>nclusion</b> and Equal Opportunity Employment</b></p><p>At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.<br />​​​​​​​<br />We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Join our Talent Community</b><br /><br /><span>Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.</span><br /><br /><span>Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>"
+							},
+							"teaser2": "2+ years of work experience in a data science and machine learning. Experience with deep neural networks architectures in particular transformer models. You will be working on projects using latest advancements in Natural Language Processing (NLP) to..."
+						},
+						"descriptionTeaser_keyword": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose. Whether...",
+						"descriptionTeaser_ats": "",
+						"descriptionTeaser_first200": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.Whether..."
+					},
+					"category": "Technology | Analytics | Research",
+					"externalApply": false
+				},
+				{
+					"cityState": "CALGARY, Alberta",
+					"country": "Canada",
+					"subCategory": "Technology",
+					"city": "CALGARY",
+					"ml_skills": [
+						"ethical",
+						"java",
+						"python",
+						"kafka",
+						"redis",
+						"mongodb",
+						"application performance optimization",
+						"public cloud",
+						"strong communication skills",
+						"application",
+						"impact",
+						"problem solving",
+						"openshift",
+						"ai",
+						"private cloud",
+						"data science",
+						"machine learning",
+						"design thinking",
+						"communication",
+						"agile mindset",
+						"software engineer",
+						"performance",
+						"kubernetes",
+						"relational databases",
+						"sql server",
+						"portfolio",
+						"articulate",
+						"commitment to quality",
+						"docker",
+						"elasticsearch",
+						"application frameworks",
+						"machine learning pipelines",
+						"ai machine learning tools",
+						"cloud architecture",
+						"stakeholders",
+						"rabbitmq",
+						"identity management",
+						"performance optimization",
+						"mysql",
+						"innovative solutions",
+						"trustworthiness",
+						"aws",
+						"machine learning tools",
+						"continuous integration"
+					],
+					"latitude": "51.0456027",
+					"type": "Full time",
+					"multi_location": [
+						"CALGARY, Alberta, Canada"
+					],
+					"locale": "en_CA",
+					"title": "Senior Machine Learning Developer",
+					"multi_location_array": [
+						{
+							"latlong": {
+								"lon": -114.0697814,
+								"lat": 51.0456027
+							},
+							"location": "CALGARY, Alberta, Canada"
+						}
+					],
+					"jobSeqNo": "RBCAA0088R0000016586EXTERNALENCA",
+					"postedDate": "2022-06-14T00:00:00.000Z",
+					"descriptionTeaser": "Apply design thinking and an agile mindset in working with other engineers, data scientists and business stakeholders to continuously experiment, iterate and deliver on new initiatives. Design and develop...",
+					"dateCreated": "2022-06-14T15:30:17.091+0000",
+					"state": "Alberta",
+					"cityStateCountry": "CALGARY, Alberta, Canada",
+					"visibilityType": "External",
+					"siteType": "external",
+					"longitude": "-114.0697814",
+					"address": "335 8 AVE SW, CALGARY, AB T2P 1C9, Canada",
+					"isMultiCategory": true,
+					"multi_category": [
+						"Technology | Analytics | Research"
+					],
+					"reqId": "R-0000016586",
+					"jobId": "R-0000016586",
+					"badge": "",
+					"jobVisibility": [
+						"external"
+					],
+					"isMultiLocation": true,
+					"applyUrl": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Senior-Machine-Learning-Developer_R-0000016586/apply",
+					"multi_category_array": [
+						{
+							"category": "Technology | Analytics | Research"
+						}
+					],
+					"location": "CALGARY, Alberta, Canada",
+					"ml_job_parser": {
+						"descriptionTeaser": "Apply design thinking and an agile mindset in working with other engineers, data scientists and business stakeholders to continuously experiment, iterate and deliver on new initiatives. Design and develop...",
+						"ml_smart_job_description": {
+							"smart_highlights": {
+								"description_html": "<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Come Work with Us!</b><br /><br /><span>At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.</span><br /><br /><span>Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Title</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Senior Machine Learning Developer<p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b><u>Job Description</u></b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><p><b>What is the opportunity?</b></p><p></p><p>AI has the potential to impact every aspect of our lives, increasing our well-being and prosperity.  However, unique ethical, legal and social challenges exist as this relatively new technology is being rolled out.  Realizing the benefits of AI will require the public’s trust and that trust can be built by ensuring that our AI models respect data privacy, are fair and robust and have appropriate levels of transparency and explainability.</p><p></p><p>The Responsible AI group at RBC is a team of experts who are helping our internal lines of businesses build AI that meets those criteria.  By sharing knowledge and building tools that help bolster trust in our AI models, we play a central role in the AI development pipeline at RBC. </p><p></p><p>We’re looking for someone who shares our passion for developing trustworthy AI.  The role is ideal for a problem solver who is able to take ideas from concept to production in our hybrid environment.</p><p></p><p><b>What will you do?</b></p><ul><li><p>Design and execution of hybrid and multi cloud architecture application deployments for Trusted AI product portfolio</p></li><li><p>Develop methodologies & frameworks for systematically validating the performance, security, and trustworthiness of deployed applications</p></li><li><p>Focus on component reusability, data sharing and security while complying with the standards and processes set within the Enterprise</p></li><li><p>Apply design thinking and an agile mindset in working with other engineers, data scientists and business stakeholders to continuously experiment, iterate and deliver on new initiatives</p></li><li><p>Leverage best practices in continuous integration and delivery, with a strong commitment to quality</p></li><li><p>Explore new capabilities and technologies to drive innovation</p></li></ul><p></p><p><b>What do you need to succeed?</b></p><p><b>Must-have</b></p><p></p><ul><li><p>Bachelor’s degree or higher in a relevant field along with:</p><ul><li><p>Minimum 2 years’ experience as a machine learning engineer; or</p></li><li><p>Minimum 2 years’ experience as a software engineer</p></li></ul></li><li><p><mark class=\"smart-job-highlights\">Experience in developing scalable, configurable applications using Python/Java and application frameworks</mark></p></li><li><p>Working knowledge of CI/CD tools</p></li><li><p>Experience in building scalable, and highly available microservices</p></li><li><p>Experience with streaming or messaging technologies (Kafka, RabbitMQ etc.)</p></li><li><p><mark class=\"smart-job-highlights\">Strong foundational knowledge of relational databases (MySQL, SQL Server, etc.)</mark> <mark class=\"smart-job-highlights\">and NoSQL stores (Elasticsearch, Redis, MongoDB, etc.)</mark></p></li><li><p><mark class=\"smart-job-highlights\">Knowledge of public cloud (AWS/GCP/Azure) and private cloud (IBM OpenShift)</mark></p></li><li><p>First principles approach to problem solving and desire to develop innovative solutions to open-ended business problems</p></li><li><p>A passion for simplifying and automating work, making things better, continuous learning, solving open-ended problems, improving efficiency and helping others</p></li><li><p>Strong communication skills with ability to work cross-functionally to articulate, measure and solve issues</p></li></ul><p></p><p><b>Nice-to-have</b></p><p></p><ul><li><p>Knowledgeable about cloud native technologies (e.g., Docker, Kubernetes, Istio, Argo)</p></li><li><p>Knowledgeable about application performance optimization</p></li><li><p>Knowledgeable about progressive delivery techniques</p></li><li><p><mark class=\"smart-job-highlights\">Experience of data science practices</mark></p></li><li><p>Experience building or executing Machine Learning pipelines</p></li><li><p>Knowledge of vulnerability mitigation, identity management, public and private cloud security risks, and security best practices</p></li></ul><p></p><p><b>What’s in it for you?</b></p><p>We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.</p><p></p><ul><li><p>A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable</p></li><li><p>Leaders who support your development through coaching and managing opportunities</p></li><li><p>Ability to make a difference and lasting impact</p></li><li><p>Work in a dynamic, collaborative, progressive, and high-performing team</p></li><li><p>A world-class training program in financial services</p></li><li><p>Flexible work/life balance options</p></li><li><p>Opportunities to do challenging work</p></li><li><p>Opportunities to take on progressively greater accountabilities    </p></li><li><p>Opportunities to building close relationships with clients</p></li><li><p>Access to a variety of job opportunities across business and geographies</p></li></ul><p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Summary</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Directs and leads the operation and delivery of Responsible AI machine learning tools and projects. Design and develop methodologies and frameworks to build reusable, scalable and secure Responsible AI solutions to help internal lines of businesses build AI that meets their criteria.<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Address:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CALGARY, Alberta, Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>City:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CAN-AB-CALGARY<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Country:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Work hours/week:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>37.5<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Employment Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Full time<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Platform:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Technology and Operations<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Job Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Regular<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Pay Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Salaried<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Posted Date:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-06-14-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Application Deadline:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-07-11-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>I</b><b><b>nclusion</b> and Equal Opportunity Employment</b></p><p>At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.<br />​​​​​​​<br />We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Join our Talent Community</b><br /><br /><span>Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.</span><br /><br /><span>Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>"
+							},
+							"teaser2": "Experience of data science practices. Experience in developing scalable, configurable applications using Python/Java and application frameworks. Knowledge of public cloud (AWS/GCP/Azure) and private cloud (IBM OpenShift). Strong foundational knowledge..."
+						},
+						"descriptionTeaser_keyword": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose. Whether...",
+						"descriptionTeaser_ats": "",
+						"descriptionTeaser_first200": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.Whether..."
+					},
+					"category": "Technology | Analytics | Research",
+					"externalApply": false
+				},
+				{
+					"cityState": "CALGARY, Alberta",
+					"country": "Canada",
+					"subCategory": "Technology",
+					"city": "CALGARY",
+					"ml_skills": [
+						"trustworthiness",
+						"orchestration",
+						"jenkins",
+						"apis",
+						"data storage",
+						"design thinking",
+						"data access",
+						"continuous integration",
+						"docker",
+						"big data technologies",
+						"python",
+						"spark",
+						"ecosystem",
+						"data modeling",
+						"collaborating",
+						"governance",
+						"stakeholders",
+						"commitment to quality",
+						"github",
+						"public cloud",
+						"performance",
+						"data-driven",
+						"automation",
+						"agile mindset",
+						"kubernetes",
+						"impact",
+						"inspiring",
+						"data products",
+						"data engineering",
+						"ensure quality"
+					],
+					"latitude": "51.0456027",
+					"type": "Full time",
+					"multi_location": [
+						"CALGARY, Alberta, Canada"
+					],
+					"locale": "en_CA",
+					"title": "Machine Learning Engineer",
+					"multi_location_array": [
+						{
+							"latlong": {
+								"lon": -114.0697814,
+								"lat": 51.0456027
+							},
+							"location": "CALGARY, Alberta, Canada"
+						}
+					],
+					"jobSeqNo": "RBCAA0088R0000010859EXTERNALENCA",
+					"postedDate": "2022-06-13T00:00:00.000Z",
+					"descriptionTeaser": "This would include creating production pipelines that facilitate curation of data, derivation of value via applying models, automation of business decisions, data trust, governance, monitoring, client...",
+					"dateCreated": "2022-05-09T14:27:54.976+0000",
+					"state": "Alberta",
+					"cityStateCountry": "CALGARY, Alberta, Canada",
+					"visibilityType": "External",
+					"siteType": "external",
+					"longitude": "-114.0697814",
+					"address": "335 8 AVE SW, CALGARY, AB T2P 1C9, Canada",
+					"isMultiCategory": true,
+					"multi_category": [
+						"Technology | Analytics | Research"
+					],
+					"reqId": "R-0000010859",
+					"jobId": "R-0000010859",
+					"badge": "",
+					"jobVisibility": [
+						"external"
+					],
+					"isMultiLocation": true,
+					"applyUrl": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Machine-Learning-Engineer_R-0000010859/apply",
+					"multi_category_array": [
+						{
+							"category": "Technology | Analytics | Research"
+						}
+					],
+					"location": "CALGARY, Alberta, Canada",
+					"ml_job_parser": {
+						"descriptionTeaser": "This would include creating production pipelines that facilitate curation of data, derivation of value via applying models, automation of business decisions, data trust, governance, monitoring, client...",
+						"ml_smart_job_description": {
+							"smart_highlights": {
+								"description_html": "<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Come Work with Us!</b><br /><br /><span>At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.</span><br /><br /><span>Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Title</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Machine Learning Engineer<p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b><u>Job Description</u></b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><p></p><p><span>The DNA (Data & Analytics) group is responsible for enabling RBC to be a data-driven organization. As part of this mission, DNA works with various lines of businesses (Personal & Commercial Banking, Wealth Management, Insurance, Capital Markets, etc...) to create and build data-driven solutions that serve our clients better.</span></p><p><span>The Calgary enterprise data team will be focused on the governance and operations of analytic data science models executing on our production enterprise data platform. They will focus on the monitoring and control of the platform and the governance of networks of models, ensuring that they result in coherent business decisions and client interactions. This would include creating production pipelines that facilitate curation of data, derivation of value via applying models, automation of business decisions, data trust, governance, monitoring, client interactions and feedback channels.</span></p><p><span>Achieving a well governed, coherent and automated business decisions and client interactions ecosystem requires collaborating with Data Scientists, Architects, Platform Engineers and several other disciplines across the Bank.</span></p><p></p><p><b><span>What will you do?</span></b></p><p></p><ul><li><p><span><mark class=\"smart-job-highlights\">Use Python, Spark, GitHub, Maven, Jenkins and Airflow to develop and deploy AI models</mark></span></p></li><li><p>  <span>Design and execution of integration & execution of AI models with internal RBC products, as well as external RBC partners</span></p></li><li><p><span>Develop methodologies & frameworks for systematically validating the performance, security, and trustworthiness of deployed ML models</span></p></li><li><p><span>Focus on component reusability, data sharing and security while complying with the standards and processes set within the Enterprise</span></p></li><li><p><span>Apply design thinking and an agile mindset in working with other engineers, data scientists and business stakeholders to continuously experiment, iterate and deliver on new initiatives</span></p></li><li><p><span>Leverage best practices in continuous integration and delivery, with a strong commitment to quality</span></p></li><li><p><span>Explore new capabilities and technologies to drive innovation</span></p></li></ul><p>·        </p><p><b><span>What do you need to succeed?</span></b></p><p></p><p><b><span>Must-have</span></b></p><ul><li><p>     <span><mark class=\"smart-job-highlights\">Proven track record of building and managing Data Engineering teams leveraging big data technologies (Spark, Kafka, Data Pipelines) to build data products</mark></span></p></li><li><p>     <span>Proven track record of setting exemplary standards and the ability to tap in to hands on experience when necessary to ensure quality and timely deliverables</span></p></li><li><p>    <span>Active participation in design and code reviews, establishing of best practices, continuously inspiring a team of high calibre data Engineers to deliver excellence</span></p></li><li><p>     <span>Experience with containers and orchestration (e.g. <mark class=\"smart-job-highlights\">Docker, Kubernetes, Mesos); experience with data modeling, data access and data storage techniques; experience building APIs; experience with public cloud Development</mark></span></p></li><li><p><span>A passion for simplifying and automating work, making things better, continuous learning and helping others</span></p></li></ul><p>·        </p><p><b><span>What’s in it for you?</span></b></p><p></p><p><span>We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.</span></p><p>·        </p><p>o   <span>A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable</span></p><p>o   <span>Leaders who support your development through coaching and managing opportunities</span></p><p>o   <span>Ability to make a difference and lasting impact</span></p><p>o   <span>Work in a dynamic, collaborative, progressive, and high-performing team</span></p><p>o   <span>A world-class training program in financial services</span></p><p>o   <span>Flexible work/life balance options</span></p><p>o   <span>Opportunities to do challenging work</span></p><p>o   <span>Opportunities to take on progressively greater accountabilities    </span></p><p>o   <span>Opportunities to building close relationships with clients</span></p><p>o   <span>Access to a variety of job opportunities across business and geographies</span></p><p></p><p><i>RBC requires as a condition of employment that all successful candidates in the United States and Canada be fully vaccinated against COVID-19 prior to their start date, and may require proof of the same.  Reasonable accommodation is available where required by law.</i></p><p></p><p><i>RBC exige, à titre de condition d’emploi, que tous les candidats retenus aux États-Unis ou au Canada soient entièrement vaccinés contre la COVID-19 avant leur date d’entrée en fonction. Il est possible qu’ils aient à présenter une preuve vaccinale. Des mesures raisonnables d’adaptation sont offertes lorsque la loi l’exige</i></p><p></p><p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Summary</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Address:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CALGARY, Alberta, Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>City:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CAN-AB-CALGARY<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Country:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Work hours/week:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>37.5<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Employment Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Full time<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Platform:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Technology and Operations<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Job Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Regular<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Pay Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Salaried<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Posted Date:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-05-09-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Application Deadline:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-06-27-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>I</b><b><b>nclusion</b> and Equal Opportunity Employment</b></p><p>At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.<br />​​​​​​​<br />We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Join our Talent Community</b><br /><br /><span>Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.</span><br /><br /><span>Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>"
+							},
+							"teaser2": "Docker, Kubernetes, Mesos); experience with data modeling, data access and data storage techniques; experience building APIs; experience with public cloud Development. Use Python, Spark, GitHub, Maven, Jenkins and Airflow to develop and deploy AI models...."
+						},
+						"descriptionTeaser_keyword": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose. Whether...",
+						"descriptionTeaser_ats": "",
+						"descriptionTeaser_first200": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.Whether..."
+					},
+					"category": "Technology | Analytics | Research",
+					"externalApply": false
+				},
+				{
+					"cityState": "TORONTO, Ontario",
+					"country": "Canada",
+					"subCategory": "Technology",
+					"city": "TORONTO",
+					"ml_skills": [
+						"restful api",
+						"kafka",
+						"angular",
+						"cloud applications",
+						"mvc",
+						"openshift",
+						"full software development life cycle",
+						"applications",
+						"excellent communication",
+						"apis",
+						"caching",
+						"spring framework",
+						"communication",
+						"performance",
+						"relational databases",
+						"pivotal cloud foundry",
+						"resiliency",
+						"jpa",
+						"docker",
+						"continuous delivery",
+						"sql",
+						"git",
+						"software engineering",
+						"swagger",
+						"rest api",
+						"mysql",
+						"junit",
+						"load balancing",
+						"angular 7",
+						"mockito",
+						"agile development",
+						"ssl certificates",
+						"technical design"
+					],
+					"latitude": "43.7230779",
+					"type": "Full time",
+					"multi_location": [
+						"TORONTO, Ontario, Canada",
+						"CALGARY, Alberta, Canada"
+					],
+					"locale": "en_CA",
+					"title": "Senior Full Stack Developer",
+					"multi_location_array": [
+						{
+							"latlong": {
+								"lon": -79.5988378,
+								"lat": 43.7230779
+							},
+							"location": "TORONTO, Ontario, Canada"
+						},
+						{
+							"latlong": {
+								"lon": -114.0697814,
+								"lat": 51.0456027
+							},
+							"location": "CALGARY, Alberta, Canada"
+						}
+					],
+					"jobSeqNo": "RBCAA0088R0000015354EXTERNALENCA",
+					"postedDate": "2022-06-13T00:00:00.000Z",
+					"descriptionTeaser": "Knowledge of developing distributed cloud applications (Pivotal Cloud Foundry, Openshift, Docker); Hands on experience designing, developing, testing and troubleshooting RESTful API and interface specifications...",
+					"dateCreated": "2022-06-13T15:30:04.560+0000",
+					"state": "Ontario",
+					"cityStateCountry": "TORONTO, Ontario, Canada",
+					"visibilityType": "External",
+					"siteType": "external",
+					"longitude": "-79.5988378",
+					"address": "600 QUEENS PLATE DR, TORONTO, ON M9W 0A4, Canada",
+					"isMultiCategory": true,
+					"multi_category": [
+						"Technology | Analytics | Research"
+					],
+					"reqId": "R-0000015354",
+					"jobId": "R-0000015354",
+					"badge": "",
+					"jobVisibility": [
+						"external"
+					],
+					"isMultiLocation": true,
+					"applyUrl": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Full-Stack-Developer_R-0000015354/apply",
+					"multi_category_array": [
+						{
+							"category": "Technology | Analytics | Research"
+						}
+					],
+					"location": "TORONTO, Ontario, Canada",
+					"ml_job_parser": {
+						"descriptionTeaser": "Knowledge of developing distributed cloud applications (Pivotal Cloud Foundry, Openshift, Docker); Hands on experience designing, developing, testing and troubleshooting RESTful API and interface specifications...",
+						"ml_smart_job_description": {
+							"smart_highlights": {
+								"description_html": "<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Come Work with Us!</b><br /><br /><span>At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.</span><br /><br /><span>Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Title</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Senior Full Stack Developer<p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b><u>Job Description</u></b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><p><b>What is the opportunity?</b></p><p><span>The epiX mega-journey is looking for the best of the best in RBC to join us on our award-winning transformation.</span></p><p>The Business Financial Services Technology (BFST) mandate is to build the next-generation technologies that change how millions of people interact with financial information and one another. Our products need to handle information at massive scale, and extend well beyond traditional banking.</p><p>The RBC BFST team offers the opportunity to leverage our new large scale transformation program to develop innovative solutions to our most challenging problems for RBC’s commercial banking customers.</p><p>We hire people with a broad set of technical skills who are ready to take on tough challenges and make an impact to millions of Canadians and businesses every day.As an engineer on the team, you will work as part of a small, autonomous team to deliver services for use in both internal and external applications. We are looking for top notch software engineers who are great team players and obsessive about the quality of their code and delivered service. This role requires someone who can roll up their sleeves while developing their future career opportunities.</p><p></p><p><b>What will you do?</b></p><ul><li>Deliver small to large-sized well-defined tasks, working individually or pairing with others and you have a small amount of experience in a well-defined area</li><li>Be part of a team creating new services and customer-facing applications using the latest technologies which will shape the future of banking for RBC; Develop and support highly scalable, high performance APIs within an Agile development team</li><li>Ensure high code quality through automated unit and functional testing</li><li>Automate processes within the development pipeline; identify opportunities for efficiency gains and reducing time-to-market, and enabling continuous delivery</li><li>Design and develop code structures based on technical design defined by the team</li><li>Work within an Agile product team comprised of technical, product and business team members to deliver exceptional products</li><li>Actively seek out knowledge about new technologies and how they can be used to solve current and foreseeable challenges</li><li>Excellent communication including the ability to distill technical details into human terms</li></ul><p></p><p><b>What do you need to succeed?</b></p><p><b>Must-have</b></p><ul><li><mark class=\"smart-job-highlights\">5+ years’ experience with Angular 7+, Java 8+, REST API/Micro services, Spring Framework (MVC, Security, JPA, Boot), Maven, SQL</mark></li><li><mark class=\"smart-job-highlights\">Knowledge of developing distributed cloud applications (Pivotal Cloud Foundry, Openshift, Docker); Hands on experience designing, developing, testing and troubleshooting RESTful API and interface specifications (Swagger, RAML, SOAP)</mark></li><li>Knowledge of security gateways and protocols (JWT, Oauth2.0, SSL Certificates)</li><li><mark class=\"smart-job-highlights\">Knowledge of testing and mocking frameworks (Junit, Mockito, WireMock)</mark></li><li>Knowledge of software engineering practices for the full software development life cycle, including coding standards, code reviews, source code management, build processes and testing; Experience with code merging and branching methodologies using Git and code release process</li><li>Theoretical knowledge of web-based application architectures and frameworks (including Angular or React) and the way it integrates with services</li><li>Pairs effectively with other developers in the team</li></ul><p></p><p></p><p><b>Nice-to-have</b></p><ul><li>Knowledge of Kafka, MySQL, Non-relational databases, Caching</li><li>Knowledge of major architectures style (message oriented, reactive, event based)</li><li>Micro-service design and implementation (load balancing, discovery, resiliency</li></ul><p></p><p><b>What’s in it for you?</b></p><p>We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.</p><ul><li>A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable</li><li>Leaders who support your development through coaching and managing opportunities</li><li>Work in a dynamic, collaborative, progressive, and high-performing team</li><li>Opportunities to do challenging work</li><li>Opportunities to take on progressively greater accountabilities</li><li>Access to a variety of job opportunities across business and geographies</li></ul><p></p><p><i>RBC requires as a condition of employment that all successful candidates in the United States and Canada be fully vaccinated against COVID-19 prior to their start date, and may require proof of the same. </i><i>Reasonable accommodation is available where required by law.</i></p><p></p><p><i>RBC exige, à titre de condition d'emploi, que tous les candidats retenus aux États-Unis ou au Canada soient entièrement vaccinés contre la COVID-19 avant leur date d'entrée en fonction. Il est possible qu'ils aient à présenter une preuve vaccinale. </i><i>Des mesures raisonnables d'adaptation sont offertes lorsque la loi l'exige</i></p><p></p><p></p><p></p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><u><b>Job Summary</b></u></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Address:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>TORONTO, Ontario, Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>City:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>CAN-ON-TORONTO<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Country:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Canada<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Work hours/week:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>37.5<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Employment Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Full time<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Platform:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Technology and Operations<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Job Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Regular<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Pay Type:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Salaried<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Posted Date:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-06-13-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Application Deadline:</b></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>2022-06-26-07:00<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>I</b><b><b>nclusion</b> and Equal Opportunity Employment</b></p><p>At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.<br />​​​​​​​<br />We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p><b>Join our Talent Community</b><br /><br /><span>Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.</span><br /><br /><span>Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.</span></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>"
+							},
+							"teaser2": "5+ years’ experience with Angular 7+, Java 8+, REST API/Micro services, Spring Framework (MVC, Security, JPA, Boot), Maven, SQL. Knowledge of testing and mocking frameworks (Junit, Mockito, WireMock). Knowledge of developing distributed cloud applications..."
+						},
+						"descriptionTeaser_keyword": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose. Whether...",
+						"descriptionTeaser_ats": "",
+						"descriptionTeaser_first200": "Come Work with Us!At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.Whether..."
+					},
+					"category": "Technology | Analytics | Research",
+					"externalApply": false
+				}
+			],
+			"aggregations": [
+				{
+					"field": "country",
+					"value": {
+						"Canada": 31
+					}
+				},
+				{
+					"field": "subCategory",
+					"value": {
+						"Technology": 31
+					}
+				},
+				{
+					"field": "city",
+					"value": {
+						"CALGARY": 31,
+						"TORONTO": 9,
+						"MONTRÉAL": 4,
+						"VANCOUVER": 3,
+						"HALIFAX": 1,
+						"WATERLOO": 1
+					}
+				},
+				{
+					"field": "careerLevel",
+					"value": {
+						"Professional": 30,
+						"Management": 1
+					}
+				},
+				{
+					"field": "state",
+					"value": {
+						"Ontario": 355,
+						"Alberta": 31,
+						"Nova Scotia": 29,
+						"New Jersey": 22,
+						"Quebec": 19,
+						"British Columbia": 8,
+						"New York": 7,
+						"Minnesota": 4,
+						"North Carolina": 4,
+						"California": 2,
+						"Manitoba": 1,
+						"New South Wales": 1,
+						"Unspecified": 13
+					}
+				},
+				{
+					"field": "jobType",
+					"value": {
+						"Regular": 28,
+						"Student/Coop (Fixed Term)": 3
+					}
+				},
+				{
+					"field": "type",
+					"value": {
+						"Full time": 27,
+						"Unspecified": 4
+					}
+				},
+				{
+					"field": "category",
+					"value": {
+						"Technology | Analytics | Research": 31
+					}
+				},
+				{
+					"field": "platform",
+					"value": {
+						"Technology and Operations": 25,
+						"Internal Audit": 1,
+						"Unspecified": 5
+					}
+				}
+			],
+			"searchConfig": {
+				"contextualSearch": false,
+				"isSuggestionsEnabled": false
+			},
+			"suggestions": {},
+			"ui_skills_selection": null,
+			"ui_selections": {
+				"subCategory": [
+					"Technology"
+				],
+				"state": [
+					"Alberta"
+				]
+			},
+			"locationData": {
+				"place_id": "",
+				"latitude": "",
+				"longitude": "",
+				"aboveMaxRadius": "true",
+				"placeVal": "",
+				"sliderRadius": "305"
+			}
+		},
+		"eid": {
+			"eid": "62aaa90b4bded73cfac8fc87",
+			"searchType": "landingPage",
+			"query": "subCategory.subCategory_sort:(\"Technology\")"
+		}
+	},
+	"experimentData": {
+		"exp189": "SentVec_250"
+	}
+}
